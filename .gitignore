@@ -1,0 +1,7 @@
+dist-newstyle/
+.python-deps/
+.venv/
+*.hi
+*.o
+webhook
+transactions.db
